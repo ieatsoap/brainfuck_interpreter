@@ -10,7 +10,7 @@ brainfuck assembler using mips asm
 { i/o is on an almost hidden panel at the bottom, expand with arrows at the bottom left }
 
 defaults:
-- file name - "test.txt"    <-- { NOTE: .txt file containing the brainfuck code must share a location with Mars4_5.jar }
+- file name - "test.txt" { NOTE: .txt file containing the brainfuck code must share a location with Mars4_5.jar }
 - memory - program bit memory - 2048 bits
 - instruction - instruct. bit memory - 1024 bits
 - addrbook - address word memory - 256 words
