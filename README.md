@@ -1,5 +1,5 @@
-# brainfuck_assembler
-brainfuck assembler using mips asm
+# brainfuck_interpreter
+brainfuck interpreter using mips asm
 
 0) requires java for mips
 1) navigate to cmd dir of downloaded file and run:
